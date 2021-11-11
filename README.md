@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+## `react-router-dom`
+npm install react-router-dom@5
+
+### `Json server`
+npx json-server --watch data/server.json --port 8000
 
 ### `npm start`
 
